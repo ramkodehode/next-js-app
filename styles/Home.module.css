@@ -2,6 +2,10 @@
   padding: 0;
 }
 
+.homePageTitle {
+  color: red;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -57,7 +61,7 @@
 }
 
 .code {
-  background: #fafafa;
+  background: red;
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
