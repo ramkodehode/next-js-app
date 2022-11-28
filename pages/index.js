@@ -8,11 +8,8 @@ export default function Home() {
       <Head>
         <title> Next Tutorial</title>
       </Head>
-      <nav className={styles.navbar}>
-        <Link href="/about">About</Link>
-      </nav>
 
-      <h1>Hello World</h1>
+      <h1 className={styles.homePageTitle}>Hello World</h1>
     </div>
   );
 }
